@@ -1,5 +1,6 @@
 ## NILM-UPC-MasterThesis
 Master thesis degree project in Energy Engineering - UPC Catalonia, Spain.
+**Title**: "Impact of Sampling Rates for State-of-the-Art NILM: A Case Study with Sequence-to-Point Algorithms and the UK-DALE Dataset".
 
 **Notes**
 - **Mycode1** - EDA - is run using _nilmtk environment_ following [nilmtk](https://github.com/nilmtk/nilmtk) instructions
